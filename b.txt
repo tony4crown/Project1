@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Life is good with git
+>>>>>>> 5e618870c05e2a6ad612620737fe42926416e923
